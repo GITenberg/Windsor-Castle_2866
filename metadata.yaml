@@ -1,0 +1,45 @@
+_repo: Windsor-Castle_2866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ainsworth, William Harrison
+    aliases:
+    - Ainsworth, W. H. (William Harrison)
+    - Ainsworth, Harrison
+    - Ticheburn, Cheviot
+    - Ainworth, W. Harrison (William Harrison)
+    - Ainsworth, W. Harrison (William Harrison)
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '1056'
+    url: http://www.gutenberg.org/2009/agents/1056
+    wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+description: "Windsor Castle is a novel by William Harrison Ainsworth serially published\
+  \ in 1842. It is a historical romance with gothic elements that depicts Henry VIII's\
+  \ pursuit of Anne Boleyn. Intertwined with the story are the actions of Herne the\
+  \ Hunter, a legendary ghost that haunts Windsor woods.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2866'
+  wikidata: Q8024579
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queens -- Great Britain -- Fiction'
+- !lcsh 'Windsor Castle -- Fiction'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603 -- Fiction'
+- !lcsh 'Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536 --
+  Fiction'
+- GITenberg
+title: Windsor Castle
+url: http://www.gutenberg.org/ebooks/2866
+wikipedia:
+- https://en.wikipedia.org/wiki/Windsor_Castle_(novel)
