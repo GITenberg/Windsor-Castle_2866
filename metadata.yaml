@@ -1,5 +1,8 @@
 _repo: Windsor-Castle_2866
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ainsworth, William Harrison
@@ -18,6 +21,8 @@ description: "Windsor Castle is a novel by William Harrison Ainsworth serially p
   \ in 1842. It is a historical romance with gothic elements that depicts Henry VIII's\
   \ pursuit of Anne Boleyn. Intertwined with the story are the actions of Herne the\
   \ Hunter, a legendary ghost that haunts Windsor woods.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2866#Windsor-Castle
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
